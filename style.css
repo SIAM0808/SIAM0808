@@ -111,4 +111,7 @@ a{
     html{
         font-size: 40%;
     }
+    .container{
+        margin-left: -10px;
+    }
 }
