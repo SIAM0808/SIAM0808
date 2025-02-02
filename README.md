@@ -1,9 +1,12 @@
-<!-- # 👋 Hey there! I'm Fahad Hasan Siam  
-### 🚀 Competitive Programmer | 💻 Developer | 🎯 Problem Solver   -->
+ # 👋 Hey there!  
+
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Fahad+Hasan+Siam;An+Undergraduate+Student+of+CSE;Competitive+Programmer+%26+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Fahad+Hasan+Siam;An+Undergraduate+Student+of+CSE" />
 </p>
+
+### 🚀 Competitive Programmer | 💻 Developer | 🎯 Problem Solver 
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=blue)  
 
