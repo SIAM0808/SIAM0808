@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Fahad+Hasan+Siam;An+Undergraduate+Student+of+CSE" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Fahad+Hasan+Siam;An+Undergraduate+Student+of+CSE" />
 </p>
 
 ### 🚀 Competitive Programmer | 💻 Developer | 🎯 Problem Solver 
