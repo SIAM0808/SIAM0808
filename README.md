@@ -28,7 +28,8 @@
 
 
 ## 📊 Codeforces Stats  
-![Codeforces Stats](https://cfviz.netlify.app/api/streak/SIAM_809)
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api?username=SIAM_809)
+
 
 ## 📫 Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/siam0808)  
