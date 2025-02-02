@@ -27,6 +27,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SIAM0808&layout=compact&theme=tokyonight) 
 
 
+## 📊 Codeforces Stats  
+![Codeforces Stats](https://cfviz.netlify.app/api/streak/SIAM_809)
 
 ## 📫 Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/siam0808)  
