@@ -27,14 +27,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SIAM0808&layout=compact&theme=tokyonight) 
 
 
-## 📊 Codeforces Stats  
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api?username=SIAM_809)
-## 🚀 Codeforces Profile  
-[![Codeforces Profile](https://img.shields.io/badge/Codeforces-SIAM_809-orange?style=flat&logo=codeforces)](https://codeforces.com/profile/SIAM_809)
-## 📊 Codeforces Rating Graph  
-[![Codeforces Rating](https://cf.leed.at/graph/SIAM_809)](https://codeforces.com/profile/SIAM_809)
-
-
 
 ## 📫 Let's Connect!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/siam0808)  
