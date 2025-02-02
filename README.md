@@ -1,5 +1,9 @@
-# 👋 Hey there! I'm Fahad Hasan Siam  
-### 🚀 Competitive Programmer | 💻 Developer | 🎯 Problem Solver  
+<!-- # 👋 Hey there! I'm Fahad Hasan Siam  
+### 🚀 Competitive Programmer | 💻 Developer | 🎯 Problem Solver   -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Fahad+Hasan+Siam;An+Undergraduate+Student+of+CSE;Competitive+Programmer+%26+Developer" />
+</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=blue)  
 
@@ -18,7 +22,7 @@
 ## 📊 GitHub Stats  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SIAM0808&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SIAM0808&layout=compact&theme=tokyonight) 
-![Codeforces Stats](https://cfviz.netlify.app/api/streak/SIAM_809)
+
 
 
 ## 📫 Let's Connect!  
